@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="293661ac-1ab7-419b-9ee5-4f5bc65188bc" name="Changes" comment="update">
+    <list default="true" id="293661ac-1ab7-419b-9ee5-4f5bc65188bc" name="Changes" comment="update hero">
+      <change afterPath="$PROJECT_DIR$/css/sidebars.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/sign-in.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plan2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plan3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/planing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_tem.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,26 +34,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/qee/PycharmProjects/pythonProject/Resume",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/qee/PycharmProjects/pythonProject/Resume&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\qee\PycharmProjects\pythonProject\Bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\qee\PycharmProjects\pythonProject\Resume" />
       <recent name="C:\Users\qee\PycharmProjects\pythonProject\Bootstrap" />
     </key>
   </component>
@@ -68,7 +73,20 @@
       <workItem from="1713877343686" duration="15354000" />
       <workItem from="1713929937057" duration="271000" />
       <workItem from="1714076265143" duration="5032000" />
-      <workItem from="1714083215348" duration="634000" />
+      <workItem from="1714083215348" duration="9253000" />
+      <workItem from="1714160444977" duration="138000" />
+      <workItem from="1714167098640" duration="1311000" />
+      <workItem from="1714279130535" duration="52000" />
+      <workItem from="1714279554171" duration="555000" />
+      <workItem from="1714282263352" duration="215000" />
+      <workItem from="1714282586215" duration="807000" />
+      <workItem from="1714362529016" duration="183000" />
+      <workItem from="1714363382330" duration="9493000" />
+      <workItem from="1714402859349" duration="2051000" />
+      <workItem from="1714407047937" duration="53000" />
+      <workItem from="1714451271851" duration="16000" />
+      <workItem from="1715117779809" duration="12781000" />
+      <workItem from="1715236815965" duration="1533000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1714080724284</created>
@@ -84,7 +102,49 @@
       <option name="project" value="LOCAL" />
       <updated>1714083623065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1714083964801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714083964801</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update nav">
+      <created>1714084350288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714084350288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update nav">
+      <created>1714084435406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714084435406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update name">
+      <created>1714101497139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714101497139</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update name">
+      <created>1714101658171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714101658171</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update hero">
+      <created>1714102676730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714102676730</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +161,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -115,6 +175,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update nav" />
+    <MESSAGE value="update name" />
+    <MESSAGE value="update hero" />
+    <option name="LAST_COMMIT_MESSAGE" value="update hero" />
   </component>
 </project>
